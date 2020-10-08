@@ -46,8 +46,7 @@ CPU cpu=new CPU();
 
 
 ## 实验结果
-实验截图https://github.com/wangchen2019311152/Java-6/upload/main
-
+实验截图https://github.com/wangchen2019311152/Java-6/tree/main/%E5%AE%9E%E9%AA%8C%E6%88%AA%E5%9B%BE
 
 
 
